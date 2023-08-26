@@ -1,4 +1,4 @@
-![Project Logo]()
+![Project Logo](./media/GP_logo.png)
 This project provides a solution to help drivers using a mobile app by notifying them of traffic lights, speed bumps, and radars before reaching them on the road and Informing the driver if he exceeds the safe distance between him and the cars in front of him. 
 
 This aims to solve this problem by providing drivers with real-time information about these obstacles and allowing them to plan their routes accordingly. The application uses advanced algorithms and machine learning techniques to analyze real-time traffic data and notify drivers about traffic lights, speed bumps, and radars on their planned routes.
@@ -6,7 +6,7 @@ This aims to solve this problem by providing drivers with real-time information 
 
 ## Detection Process
 We used a Multi-Level classification technique to identify road objects such as cars, traffic lights, and speed bumps, in real-time. This ensures optimal performance on mobile devices by employing as few resources as possible while getting the desired results.
-![detection process](./img/GPimg1.jpg)
+![detection process](./media/GPimg1.jpg)
 We've fine-tuned both the YOLO v5 and v8 versions to meet our specific requirements. The on-device model recognizes signs and cars and sends them to our server for additional analysis. The results are saved in our database once they have been discovered. 
 
 We have created an additional model for identifying sudden actions.
