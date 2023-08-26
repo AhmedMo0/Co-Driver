@@ -22,7 +22,8 @@ This additional data is combined with the existing dataset to create a more comp
 
 
 
-
+### Promo Video
+[![project promo](https://drive.google.com/thumbnail?id=1VIXKfUrEi8qyLOYGt9jRB7RwjXWfxcol)](https://drive.google.com/file/d/1VIXKfUrEi8qyLOYGt9jRB7RwjXWfxcol/preview)
 
 ## Project Functionalities
 ### 1. Notify the driver before he reaches a speed bump, radar, or traffic light.
