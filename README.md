@@ -70,4 +70,4 @@ The Speech-to-Text integration ensures seamless communication between the user a
 
 Also supports Text-To-Speech to inform the user with notifications about new events, updates, or messages in an app.
 
-
+[Take a look at the project documentation and more](https://drive.google.com/drive/folders/18tbl1xp42fTL5SsjR5C84BLNQi3Q02gm)
